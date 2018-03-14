@@ -1,0 +1,6 @@
+package cn.e3mall.item.controller;
+
+@Controller
+public class ItemController {
+
+}
